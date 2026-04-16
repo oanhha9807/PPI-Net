@@ -1,5 +1,5 @@
 # PPI-Net
-# PPI-Net: Dense Pulse-to-Pulse Interval Trajectory Learning for Robust HR Estimation
+# PPI-Net: Heart Rate Estimation via Pulse-to-Pulse Interval Trajectory Prediction with Interpretable Failure Diagnostics
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
