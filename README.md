@@ -1,4 +1,4 @@
-# PPI-Net
+
 # PPI-Net: Heart Rate Estimation via Pulse-to-Pulse Interval Trajectory Prediction with Interpretable Failure Diagnostics
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
