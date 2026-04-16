@@ -76,6 +76,6 @@ Unlike traditional models, PPI-Net allows for mechanistic error analysis:
 
 ### Setup
 ```bash
-git clone https://github.com/your-username/PPI-Net.git
+git clone https://github.com/oanhha9807/PPI-Net.git
 cd PPI-Net
 pip install -r requirements.txt
