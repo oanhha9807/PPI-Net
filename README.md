@@ -29,7 +29,9 @@ PPI-Net employs a **1D-2D Triple Encoder** frontend followed by a temporal refin
 4.  **Bi-GRU Residual Module:** A lightweight (~4K params) module for long-range temporal modeling of PPI.
 
 ---
+## Framework
 
+![Framework](framework/ppg_dalia_architecture_v2.svg)
 ## 🚀 Key Features
 
 - **Decoupled Learning:** Decouples feature-extraction failures from conversion-level errors via PPI representation.
